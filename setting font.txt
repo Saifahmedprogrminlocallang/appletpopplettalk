@@ -1,0 +1,10 @@
+https://www.c-sharpcorner.com/code/3672/to-change-the-font-style-using-font-class-in-applet-using-java-program.aspx
+
+setting font
+
+
+---------
+
+
+http://ecomputernotes.com/java/awt-and-applets/rectanglesinanapplet
+
